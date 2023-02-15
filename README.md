@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asadbekabdullaev35, but you can call me Asad.
-- 👀 I’m interested in: coding, technologies, learning languages (coding languages and languages to speak in), rap music and freestyling rhyming.
-- 🌱 I’m currently learning:  html, css, javascript, C. Planning to learn python.
-- 💞️ I’m looking to collaborate on some projects within qwasar platform.
+- 👀 I’m interested in: coding, technologies, learning languages (coding languages and languages to speak in), and robotics.
+- 🌱 I’m currently learning: Swift, html, css, javascript, C. Planning to learn python.
+- 💞️ I’m looking to collaborate on some swift projects.
 - 📫 How to reach me: 1. asadabdullaev35@gmail.com. 2. asadabdullayev33@gmail.com
 - 
 <!---
